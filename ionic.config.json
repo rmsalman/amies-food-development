@@ -1,0 +1,7 @@
+{
+  "name": "amies-food",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
